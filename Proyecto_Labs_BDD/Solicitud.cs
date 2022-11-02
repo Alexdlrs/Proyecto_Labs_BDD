@@ -52,14 +52,23 @@ namespace Proyecto_Labs_BDD
             if (sql.EncargadoAcceso("ing. en sistemas computacionales") == 1)
             {
                 Propiedades.Carrera_Usua = "ing. en sistemas computacionales";
+                Propiedades.Nombre_Usuario = "Felipe";
+                Propiedades.Engargado
+                Propiedades.ID_Usuario
             }
             if (sql.EncargadoAcceso("ing. civil") == 1)
             {
                 Propiedades.Carrera_Usua = "ing. civil";
+                Propiedades.Nombre_Usuario = "Andres";
+                Propiedades.Engargado
+                Propiedades.ID_Usuario
             }
             if (sql.EncargadoAcceso("ing. industrial") == 1)
             {
                 Propiedades.Carrera_Usua = "ing. industrial";
+                 Propiedades.Nombre_Usuario = "Jairo";
+                Propiedades.Engargado
+                Propiedades.ID_Usuario
             }
         }
 
